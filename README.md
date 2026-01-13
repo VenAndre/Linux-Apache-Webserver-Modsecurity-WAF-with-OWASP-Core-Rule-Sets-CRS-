@@ -30,12 +30,12 @@ Then go to:
 ## 📸 Screenshots
 
 ### 1️⃣ Apache Service Status
-![Apache Installation Output](screenshots/apache2_service_status.png)
+![Apache Installation Status](screenshots/apache2_service_status.png)
 
 ---
 
 ### 2️⃣ Apache Browser Default Page 
-![Apache Service Status](screenshots/02_apache_service_status.png)
+![Apache Browser Default Page](screenshots/apache2_browser_default.png)
 
 ---
 
