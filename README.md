@@ -1,6 +1,6 @@
 # 🌐 Linux Apache Webserver
 
-This lab walks through installing and verifying a working Apache web server on a Linux system (Debian-based distros like Ubuntu or Kali).
+This project lab walks through installing and verifying a working Apache web server on a Linux system (Debian-based distros like Ubuntu or Kali).
 
 ---
 
