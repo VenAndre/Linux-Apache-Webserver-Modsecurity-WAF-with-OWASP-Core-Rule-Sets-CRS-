@@ -87,7 +87,7 @@ sudo git clone https://github.com/coreruleset/coreruleset /etc/apache2/modsec
 ```
 ![OWASP](screenshots/7_CRS_git_clone.png)
 
-✅ I changed the file name `coreruleset` to `crs`:
+💡 I changed the file name `coreruleset` to `crs`:
 
 ![OWASP](screenshots/8_filename_change.png)
 
