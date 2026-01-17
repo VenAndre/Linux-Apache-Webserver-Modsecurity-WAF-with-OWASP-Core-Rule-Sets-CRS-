@@ -1,4 +1,4 @@
-# 🌐 Linux Apache Webserver Modsecurity (WA) with OWASP Core Rule Sets (CRS)
+# 🌐 Linux Apache Webserver Modsecurity (WAF) with OWASP Core Rule Sets (CRS)
 
 This project lab walks through installing and verifying a working Apache web server on a Linux system (Debian-based distros like Ubuntu or Kali). The guide also walks through installing ModSecurity, enabling it on Apache2, and integrating the OWASP Core Rule Set (CRS) to provide a Web Application Firewall (WAF) for your server.
 
